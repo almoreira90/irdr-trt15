@@ -39,6 +39,20 @@ USER_AGENT = (
 OUTPUT_PATH = Path(__file__).resolve().parent.parent / "site" / "data.json"
 NAV_DELAY = 0.8  # segundos de cortesia entre ações, para não sobrecarregar o servidor do Tribunal
 
+# Às vezes a equipe do NUGEP registra uma justificativa no campo "Tese Firmada"
+# mesmo quando nenhuma tese foi de fato fixada (ex.: IRDR rejeitado por falta de
+# quórum). Esse padrão captura esses casos para que não sejam publicados como
+# se fossem precedentes vinculantes.
+REJEICAO_PATTERN = re.compile(
+    r"rejeitad[ao]s?\s+(as|a)\s+teses?|ficando rejeitada|não obteve.{0,40}votos|"
+    r"nenhuma das teses|rejeitado o presente IRDR",
+    re.IGNORECASE,
+)
+
+
+def tese_valida(texto):
+    return bool(texto) and not REJEICAO_PATTERN.search(texto)
+
 
 def check_ja_decididos(page):
     checkbox = page.locator("#checkEncerrados")
@@ -171,8 +185,8 @@ def main():
                 print(f"  erro ao coletar tema {numero}: {exc}", file=sys.stderr)
                 continue
 
-            if not dados.get("tese"):
-                print(f"  tema {numero}: sem tese firmada ({dados.get('situacao_label')}) — descartado", file=sys.stderr)
+            if not tese_valida(dados.get("tese")):
+                print(f"  tema {numero}: sem tese firmada válida ({dados.get('situacao_label')}) — descartado", file=sys.stderr)
                 continue
 
             dados["tipo"] = "IRDR"

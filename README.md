@@ -11,7 +11,8 @@ Região — coletadas automaticamente do sistema oficial de Gestão de Precedent
   (`precedentesWeb`), identifica os temas já decididos e extrai apenas os que
   têm **tese firmada** (descarta os extintos/não admitidos sem tese).
 - `site/` — site estático (HTML/CSS/JS puro, sem build) que lê `data.json` e
-  apresenta os precedentes com busca.
+  apresenta os precedentes com busca e exportação em PDF (via jsPDF,
+  vendorizado localmente em `site/vendor/`, sem dependência de CDN).
 - `.github/workflows/update.yml` — roda o coletor todo dia, commita o
   `data.json` atualizado e publica o site no GitHub Pages.
 
@@ -40,3 +41,8 @@ Depois acesse http://localhost:8000
 Este site não é mantido pelo TRT da 15ª Região. Em caso de qualquer
 divergência, prevalece o inteiro teor do acórdão oficial, acessível pelo link
 em cada precedente.
+
+## Autoria
+
+Desenvolvido por André Luiz Moreira Santos — Analista Judiciário do Tribunal
+Regional do Trabalho da 15ª Região.
