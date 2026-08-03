@@ -1,28 +1,47 @@
 :root {
-  --bg: #f7f7f5;
+  --bg: #eef2f5;
   --surface: #ffffff;
-  --text: #1c1c1e;
-  --text-muted: #5c5c62;
-  --border: #e2e2e0;
-  --accent: #1d4ed8;
-  --accent-soft: #e8edfc;
-  --badge-vinculante: #0f6b3f;
-  --badge-vinculante-bg: #e3f5ea;
-  --shadow: 0 1px 2px rgba(0,0,0,0.04), 0 1px 8px rgba(0,0,0,0.04);
+  --text: #202224;
+  --text-muted: #5b6570;
+  --border: #d7dee3;
+
+  --navy: #044f86;
+  --navy-deep: #033654;
+  --cyan: #00b0f0;
+  --cyan-tint: #e3f6fd;
+  --link: #0077b3;
+
+  --badge-vinculante: #1e7a46;
+  --badge-vinculante-bg: #e1f3e7;
+
+  --aviso: #8a5a16;
+  --aviso-bg: #fbefd9;
+  --aviso-border: #f0d9ac;
+
+  --shadow: 0 1px 2px rgba(4,30,50,0.05), 0 1px 8px rgba(4,30,50,0.06);
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg: #121214;
-    --surface: #1b1b1e;
-    --text: #f0f0f2;
-    --text-muted: #a3a3ab;
-    --border: #2e2e33;
-    --accent: #7da2ff;
-    --accent-soft: #1e2740;
-    --badge-vinculante: #6fdba3;
-    --badge-vinculante-bg: #123626;
-    --shadow: 0 1px 2px rgba(0,0,0,0.3), 0 1px 8px rgba(0,0,0,0.3);
+    --bg: #0e161f;
+    --surface: #16212b;
+    --text: #e8edf1;
+    --text-muted: #9fb0bd;
+    --border: #253240;
+
+    --navy-deep: #022944;
+    --cyan: #29c2ff;
+    --cyan-tint: #10303d;
+    --link: #6fcbff;
+
+    --badge-vinculante: #59c98b;
+    --badge-vinculante-bg: #123423;
+
+    --aviso: #e3b36b;
+    --aviso-bg: #2f2510;
+    --aviso-border: #4a3a18;
+
+    --shadow: 0 1px 2px rgba(0,0,0,0.35), 0 1px 8px rgba(0,0,0,0.35);
   }
 }
 
@@ -30,38 +49,73 @@
 
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-family: Arial, Helvetica, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
   background: var(--bg);
   color: var(--text);
   line-height: 1.5;
 }
 
+/* Barra institucional: cor fixa (não muda com o tema claro/escuro),
+   igual a portais de tribunal — mas com aviso explícito de que não é oficial. */
 .topbar {
-  background: var(--surface);
-  border-bottom: 1px solid var(--border);
+  background: var(--navy);
 }
 
 .topbar-inner {
   max-width: 900px;
   margin: 0 auto;
-  padding: 28px 20px 20px;
+  padding: 26px 20px 22px;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  flex-wrap: wrap;
 }
 
-.topbar h1 {
+.topbar-icon {
+  font-size: 1.9rem;
+  line-height: 1;
+}
+
+.topbar-text h1 {
   margin: 0;
-  font-size: 1.5rem;
+  font-size: 1.45rem;
   font-weight: 700;
+  color: #ffffff;
 }
 
 .topbar h1 span {
   font-weight: 400;
-  color: var(--text-muted);
+  color: #cfe3f0;
+}
+
+.nao-oficial {
+  display: inline-block;
+  margin-left: 10px;
+  padding: 2px 9px;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  border-radius: 999px;
+  background: rgba(255,255,255,0.15);
+  color: #ffffff;
+  vertical-align: middle;
 }
 
 .subtitle {
   margin: 6px 0 0;
-  color: var(--text-muted);
+  color: #cfe3f0;
   font-size: 0.95rem;
+}
+
+.aviso {
+  background: var(--aviso-bg);
+  border-bottom: 1px solid var(--aviso-border);
+  color: var(--aviso);
+  text-align: center;
+  font-size: 0.82rem;
+  font-weight: 600;
+  padding: 8px 16px;
 }
 
 main {
@@ -83,13 +137,13 @@ main {
   padding: 10px 14px;
   font-size: 1rem;
   border: 1px solid var(--border);
-  border-radius: 8px;
+  border-radius: 6px;
   background: var(--surface);
   color: var(--text);
 }
 
 #busca:focus {
-  outline: 2px solid var(--accent);
+  outline: 2px solid var(--link);
   outline-offset: 1px;
 }
 
@@ -103,22 +157,26 @@ main {
   flex: 0 0 auto;
   padding: 10px 16px;
   font-size: 0.9rem;
-  font-weight: 600;
-  border: 1px solid var(--accent);
-  border-radius: 8px;
+  font-weight: 700;
+  border: 1px solid var(--navy);
+  border-radius: 6px;
   background: var(--surface);
-  color: var(--accent);
+  color: var(--navy);
   cursor: pointer;
   white-space: nowrap;
 }
 
 .botao-pdf:hover {
-  background: var(--accent-soft);
+  background: var(--cyan-tint);
 }
 
 .botao-pdf:disabled {
   opacity: 0.6;
   cursor: wait;
+}
+
+@media (prefers-color-scheme: dark) {
+  .botao-pdf { border-color: var(--cyan); color: var(--cyan); }
 }
 
 .creditos {
@@ -134,7 +192,8 @@ main {
 .card {
   background: var(--surface);
   border: 1px solid var(--border);
-  border-radius: 10px;
+  border-top: 3px solid var(--cyan);
+  border-radius: 6px;
   padding: 18px 20px;
   box-shadow: var(--shadow);
 }
@@ -151,14 +210,18 @@ main {
 .card-numero {
   font-weight: 700;
   font-size: 0.95rem;
-  color: var(--accent);
+  color: var(--navy);
+}
+
+@media (prefers-color-scheme: dark) {
+  .card-numero { color: var(--cyan); }
 }
 
 .badge {
   font-size: 0.75rem;
-  font-weight: 600;
+  font-weight: 700;
   padding: 3px 10px;
-  border-radius: 999px;
+  border-radius: 4px;
   background: var(--badge-vinculante-bg);
   color: var(--badge-vinculante);
   white-space: nowrap;
@@ -171,8 +234,8 @@ main {
 }
 
 .card-tese {
-  background: var(--accent-soft);
-  border-radius: 8px;
+  background: var(--cyan-tint);
+  border-radius: 4px;
   padding: 12px 14px;
   font-size: 0.95rem;
   margin-bottom: 12px;
@@ -184,8 +247,12 @@ main {
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.04em;
-  color: var(--accent);
+  color: var(--navy);
   margin-bottom: 4px;
+}
+
+@media (prefers-color-scheme: dark) {
+  .card-tese-label { color: var(--cyan); }
 }
 
 .card-footer {
@@ -198,9 +265,9 @@ main {
 }
 
 .card-footer a {
-  color: var(--accent);
+  color: var(--link);
   text-decoration: none;
-  font-weight: 600;
+  font-weight: 700;
 }
 
 .card-footer a:hover {
@@ -223,5 +290,5 @@ main {
 }
 
 .rodape a {
-  color: var(--accent);
+  color: var(--link);
 }
