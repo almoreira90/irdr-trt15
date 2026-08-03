@@ -29,6 +29,12 @@ jobs:
           pip install -r requirements.txt
           playwright install --with-deps chromium
 
+      - name: Diagnóstico de conectividade (temporário)
+        run: |
+          curl -s -o /dev/null -w "status=%{http_code}\n" \
+            -A "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" \
+            "https://pje.trt15.jus.br/precedentesWeb/pages/public/TemaLista.seam?tipo=IRDR" || true
+
       - name: Rodar coletor
         working-directory: scraper
         run: python scrape.py
