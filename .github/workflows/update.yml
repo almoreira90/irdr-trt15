@@ -1,0 +1,58 @@
+name: Atualizar precedentes IRDR
+
+on:
+  schedule:
+    # Todos os dias às 07:00 UTC (04:00 em Brasília)
+    - cron: "0 7 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependências
+        working-directory: scraper
+        run: |
+          pip install -r requirements.txt
+          playwright install --with-deps chromium
+
+      - name: Rodar coletor
+        working-directory: scraper
+        run: python scrape.py
+
+      - name: Commitar dados atualizados
+        run: |
+          git config user.name "irdr-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add site/data.json
+          git diff --cached --quiet && echo "sem mudanças" || git commit -m "chore: atualiza precedentes IRDR"
+          git push
+
+      - name: Publicar site no GitHub Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  publicar:
+    needs: atualizar
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4

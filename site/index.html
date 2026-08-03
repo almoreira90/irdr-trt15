@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Precedentes IRDR — TRT 15ª Região</title>
+<meta name="description" content="Consulta simplificada das teses jurídicas fixadas em Incidentes de Resolução de Demandas Repetitivas (IRDR) do TRT da 15ª Região." />
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<header class="topbar">
+  <div class="topbar-inner">
+    <h1>Precedentes IRDR <span>· TRT 15ª Região</span></h1>
+    <p class="subtitle">Teses jurídicas vinculantes fixadas em Incidentes de Resolução de Demandas Repetitivas</p>
+  </div>
+</header>
+
+<main>
+  <div class="controls">
+    <input id="busca" type="search" placeholder="Buscar por tema, palavra-chave ou número do IRDR…" aria-label="Buscar precedente" />
+    <div class="meta" id="meta"></div>
+  </div>
+
+  <div id="lista" class="lista" aria-live="polite"></div>
+  <p id="vazio" class="vazio" hidden>Nenhum precedente encontrado para essa busca.</p>
+</main>
+
+<footer class="rodape">
+  <p>
+    Conteúdo espelhado automaticamente do
+    <a href="https://pje.trt15.jus.br/precedentesWeb/pages/public/TemaLista.seam?tipo=IRDR" target="_blank" rel="noopener">
+      sistema oficial de Gestão de Precedentes do TRT 15ª Região
+    </a>. Este site é uma iniciativa não oficial de organização e consulta — em caso de divergência, prevalece o inteiro teor do acórdão, acessível pelo link de cada card.
+  </p>
+  <p id="atualizado"></p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
