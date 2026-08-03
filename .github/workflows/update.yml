@@ -1,56 +1,41 @@
-name: Atualizar precedentes IRDR
+name: Publicar site
+
+# A coleta de dados (scraper) NÃO roda mais aqui: o WAF do TRT15 bloqueia por
+# faixa de IP os runners de nuvem do GitHub Actions (confirmado: status 403
+# mesmo com User-Agent de navegador). A coleta roda localmente (agendada via
+# launchd, ver scraper/atualizar_e_publicar.sh) e este workflow só publica o
+# conteúdo já coletado sempre que site/ muda no branch main.
 
 on:
-  schedule:
-    # Todos os dias às 07:00 UTC (04:00 em Brasília)
-    - cron: "0 7 * * *"
+  push:
+    branches: [main]
+    paths:
+      - "site/**"
   workflow_dispatch: {}
 
 permissions:
-  contents: write
+  contents: read
   pages: write
   id-token: write
 
 jobs:
-  atualizar:
+  publicar:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Configurar Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-
-      - name: Instalar dependências
-        working-directory: scraper
-        run: |
-          pip install -r requirements.txt
-          playwright install --with-deps chromium
-
-      - name: Diagnóstico de conectividade (temporário)
-        run: |
-          curl -s -o /dev/null -w "status=%{http_code}\n" \
-            -A "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" \
-            "https://pje.trt15.jus.br/precedentesWeb/pages/public/TemaLista.seam?tipo=IRDR" || true
-
-      - name: Rodar coletor
-        working-directory: scraper
-        run: python scrape.py
-
-      - name: Commitar dados atualizados
-        run: |
-          git config user.name "irdr-bot"
-          git config user.email "actions@users.noreply.github.com"
-          git add site/data.json
-          git diff --cached --quiet && echo "sem mudanças" || git commit -m "chore: atualiza precedentes IRDR"
-          git push
-
-      - name: Publicar site no GitHub Pages
+      - name: Preparar artefato do Pages
         uses: actions/upload-pages-artifact@v3
         with:
           path: site
+
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
 
   publicar:
     needs: atualizar
