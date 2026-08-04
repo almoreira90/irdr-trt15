@@ -183,6 +183,15 @@ main {
   margin-top: 6px;
 }
 
+.visitas {
+  margin-top: 10px;
+}
+
+.visitas img {
+  vertical-align: middle;
+  border-radius: 3px;
+}
+
 .lista {
   display: flex;
   flex-direction: column;
