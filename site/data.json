@@ -1,8 +1,8 @@
 {
-  "atualizado_em": "2026-08-18T17:05:06+00:00",
+  "atualizado_em": "2026-08-19T17:18:41+00:00",
   "fonte": "https://pje.trt15.jus.br/precedentesWeb/pages/public/TemaLista.seam?tipo=IRDR",
   "total_temas_decididos_verificados": 48,
-  "total_com_tese_fixada": 18,
+  "total_com_tese_fixada": 17,
   "irdrs": [
     {
       "numero": "0003",
@@ -33,34 +33,6 @@
       "tipo": "IRDR"
     },
     {
-      "numero": "0013",
-      "data_admissao": "17/09/2020",
-      "data_julgamento": "28/10/2021",
-      "data_publicacao": "16/11/2021",
-      "transito_julgado": "28/03/2022",
-      "situacao_value": "TRANSITADO",
-      "situacao_label": "Transitado em julgado",
-      "descricao": "Município de Santa Gertrudes: remuneração dos Professores. Carga horária mensal ou hora- aula, para fins de fixação do pagamento de DSR",
-      "link_processo": "https://pje.trt15.jus.br/consultaprocessual/detalhe-processo/0007108-77.2019.5.15.0000/2",
-      "tese": "\"Os professores do Município de Santa Gertrudes, sob regime da Lei Municipal nº 2.349/2011, recebem remuneração mensal, calculada à base de hora-aula, fazendo jus ao pagamento do DSR em valor correspondente a 1/6 da remuneração mensal, considerando para esse fim, o mês de quatro semanas e meia, a teor do art. 320 da CLT c/c Súmula 351 do TST\".\nRefere-se à tese jurídica nº 04, deste Eg. Tribunal.",
-      "ementa_merito": "\"Os professores do Município de Santa Gertrudes, sob regime da Lei Municipal nº 2.349/2011, recebem remuneração mensal, calculada à base de hora-aula, fazendo jus ao pagamento do DSR em valor correspondente a 1/6 da remuneração mensal, considerando para esse fim, o mês de quatro semanas e meia, a teor do art. 320da CLT c/c Súmula 351 do TST\".",
-      "tipo": "IRDR"
-    },
-    {
-      "numero": "0015",
-      "data_admissao": "13/02/2020",
-      "data_julgamento": "27/05/2021",
-      "data_publicacao": "14/06/2021",
-      "transito_julgado": "05/07/2021",
-      "situacao_value": "TRANSITADO",
-      "situacao_label": "Transitado em julgado",
-      "descricao": "Supressão das gratificações concedidas pelo MUNICÍPIO DE POTIM.",
-      "link_processo": "https://pje.trt15.jus.br/consultaprocessual/detalhe-processo/0008298-75.2019.5.15.0000/2",
-      "tese": "\"Município de Potim. Pagamento de Gratificação de função criada ilegalmente e desvinculada do exercício de função ou atividade específica. Supressão. Evidenciada a existência de vício insanável na criação da verba, é dever do administrador público suspender o pagamento da gratificação de função criada sem lei específica, em respeito aos princípios da legalidade e da indisponibilidade do interesse público.\"\nRefere- se à Tese Jurídica nº 03, deste Eg. Tribunal.",
-      "ementa_merito": "Pelo exposto, nos autos do INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS decido, com fundamento no artigo 985 do CPC, nos termos da fundamentação, fixar a seguinte tese jurídica: \"Município de Potim. Pagamento de Gratificação de função criada ilegalmente e desvinculada do exercício de função ou atividade específica. Supressão. Evidenciada a existência de vício insanável na criação da verba, é dever do administrador público suspender o pagamento da gratificação de função criada sem lei específica, em respeito aos princípios da legalidade e da indisponibilidade do interesse público.\"\". O sobrestamento dos processos outrora determinado (id e141aa0) subsistirá até o trânsito em julgado do presente incidente.",
-      "tipo": "IRDR"
-    },
-    {
       "numero": "0021",
       "data_admissao": "24/02/2022",
       "data_julgamento": "27/10/2022",
@@ -86,6 +58,20 @@
       "link_processo": "https://pje.trt15.jus.br/consultaprocessual/detalhe-processo/0010664-53.2020.5.15.0000/2",
       "tese": "\"MULTA DO ART. 477, §8º, DA CLT. ATRASO NA ENTREGA DOS DOCUMENTOS. Nas rescisões contratuais realizadas na vigência da Lei nº 13.467/2017 incide a multa prevista no artigo 477, § 8º da CLT no caso do empregador não observar o prazo máximo de dez dias contados a partir do término do contrato, tanto para a entrega ao empregado de documentos que comprovem a comunicação da extinção contratual aos órgãos competentes, como para realizar o pagamento dos valores constantes do instrumento de rescisão ou recibo de quitação, salvo quando o trabalhador der causa à mora\". Refere-se à tese jurídica nº 07, deste Eg. Tribunal.",
       "ementa_merito": "\"MULTA DO ART. 477, §8º, DA CLT. ATRASO NA ENTREGA DOS DOCUMENTOS. Nas rescisões contratuais realizadas na vigência da Lei nº 13.467/2017 incide a multa prevista no artigo 477, § 8º da CLT no caso do empregador não observar o prazo máximo de dez dias contados a partir do término do contrato, tanto para a entrega ao empregado de documentos que comprovem a comunicação da extinção contratual aos órgãos competentes, como para realizar o pagamento dos valores constantes do instrumento de rescisão ou recibo de quitação, salvo quando o trabalhador der causa à mora\".",
+      "tipo": "IRDR"
+    },
+    {
+      "numero": "0027",
+      "data_admissao": "31/03/2022",
+      "data_julgamento": "09/03/2023",
+      "data_publicacao": "27/03/2023",
+      "transito_julgado": "",
+      "situacao_value": "MERITO_RECREV_IRDR",
+      "situacao_label": "Acórdão Publicado (RecRev Pendente)",
+      "descricao": "Controvérsia acerca da aplicação do artigo 58, § 2º, da CLT (horas in itinere) aos trabalhadores rurais.",
+      "link_processo": "https://pje.trt15.jus.br/consultaprocessual/detalhe-processo/0008369-09.2021.5.15.0000/2#00b522a",
+      "tese": "Diante do exposto, decide-se NÃO CONHECER dos embargos de declaração opostos pela Federação das Indústrias do Estado de São Paulo - FIESP, por intempestivos; CONHECER dos embargos de declaração opostos pelas demais terceiras interessadas para ACOLHÊ-LOS, com efeito modificativo, a fim de prestar os esclarecimentos expostos na fundamentação, bem como para alterar em parte e complementar a tese de observância obrigatória, que passa a constar com os seguintes termos:\n\n1 - HORAS \"IN ITINERE\". TRABALHADOR RURAL. TEMPO À DISPOSIÇÃO. LOCAL DE TRABALHO REMOTO, DE DIFÍCIL ACESSO OU NÃO SERVIDO POR TRANSPORTE PÚBLICO. As alterações promovidas pela Lei 13.467/2017 no art. 58, §2° da CLT, tratam do transporte fornecido pelo empregador como conveniência, e não excluíram do ordenamento jurídico o direito ao pagamento das horas in itinere, caracterizadas quando necessário o transporte para local situado em ambiente remoto, de difícil acesso ou não servido por transporte público, hipóteses em que a condução utilizada não ocorre por escolha do empregado, e sim no interesse do empregador, a fim de viabilizar a prestação de serviços nas condições e horários necessários ao processo produtivo, subsistindo ao trabalhador rural o direito de integração do tempo de deslocamento à jornada de trabalho, conforme preceitos estabelecidos na Súmula 90 do C. TST, nos termos dos arts. 2° e 4º da CLT c/c art. 7°, caput, XIII e XVI da CF/88.\n\n2 - NORMAS COLETIVAS. TEMA 1046. Com amparo na decisão vinculante proferida pelo Supremo Tribunal Federal no julgamento do Tema 1046, deverão ser respeitadas as normas coletivas que, com base na interpretação conferida à Lei 13.467/2017, alteraram ou suprimiram o direito às horas in itinere, sendo aplicável a tese quando da ausência de norma coletiva sobre a matéria.\n\n3 - MODULAÇÃO DE EFEITOS. A presente tese jurídica será válida no âmbito deste Tribunal Regional do Trabalho, observando-se a seguinte modulação:\n\nI - Nos termos dos arts. 932, II, 985, I e II, e 987, §1° do CPC, terá efeito vinculante após o trânsito em julgado do presente Incidente, o que não obsta o julgamento dos processos individuais que tratam do tema e também não impede a aplicação desta tese;\n\nII - Antes do trânsito em julgado deste Incidente, não haverá prejuízo aos processos julgados pelos órgãos fracionários que não tenham adotado a presente tese;\n\nIII - Após o trânsito em julgado: a) aplica-se aos processos ainda não julgados e que tenham sido ajuizados até a data do julgamento dos presentes embargos; b) aplica-se aos processos novos, referentes à relação material posterior à data do julgamento dos presentes embargos; c) não se aplica aos processos novos, referentes à relação material anterior ao julgamento dos presentes embargos.\n\n \n\nPublique-se.\n\n \n\nREGISTRO DA SESSÃO DE JULGAMENTO\n\nEm Sessão Ordinária realizada em 27 de julho de 2023, o Tribunal Pleno Judicial do Tribunal Regional do Trabalho da 15ª Região julgou o presente processo.\n\nPresidiu o julgamento o Excelentíssimo Senhor Desembargador Presidente do Tribunal, SAMUEL HUGO LIMA.",
+      "ementa_merito": "Diante do exposto, decide-se NÃO CONHECER dos embargos de declaração opostos pela Federação das Indústrias do Estado de São Paulo - FIESP, por intempestivos; CONHECER dos embargos de declaração opostos pelas demais terceiras interessadas para ACOLHÊ-LOS, com efeito modificativo, a fim de prestar os esclarecimentos expostos na fundamentação, bem como para alterar em parte e complementar a tese de observância obrigatória, que passa a constar com os seguintes termos:\n\n1 - HORAS \"IN ITINERE\". TRABALHADOR RURAL. TEMPO À DISPOSIÇÃO. LOCAL DE TRABALHO REMOTO, DE DIFÍCIL ACESSO OU NÃO SERVIDO POR TRANSPORTE PÚBLICO. As alterações promovidas pela Lei 13.467/2017 no art. 58, §2° da CLT, tratam do transporte fornecido pelo empregador como conveniência, e não excluíram do ordenamento jurídico o direito ao pagamento das horas in itinere, caracterizadas quando necessário o transporte para local situado em ambiente remoto, de difícil acesso ou não servido por transporte público, hipóteses em que a condução utilizada não ocorre por escolha do empregado, e sim no interesse do empregador, a fim de viabilizar a prestação de serviços nas condições e horários necessários ao processo produtivo, subsistindo ao trabalhador rural o direito de integração do tempo de deslocamento à jornada de trabalho, conforme preceitos estabelecidos na Súmula 90 do C. TST, nos termos dos arts. 2° e 4º da CLT c/c art. 7°, caput, XIII e XVI da CF/88.\n\n2 - NORMAS COLETIVAS. TEMA 1046. Com amparo na decisão vinculante proferida pelo Supremo Tribunal Federal no julgamento do Tema 1046, deverão ser respeitadas as normas coletivas que, com base na interpretação conferida à Lei 13.467/2017, alteraram ou suprimiram o direito às horas in itinere, sendo aplicável a tese quando da ausência de norma coletiva sobre a matéria.\n\n3 - MODULAÇÃO DE EFEITOS. A presente tese jurídica será válida no âmbito deste Tribunal Regional do Trabalho, observando-se a seguinte modulação:\n\nI - Nos termos dos arts. 932, II, 985, I e II, e 987, §1° do CPC, terá efeito vinculante após o trânsito em julgado do presente Incidente, o que não obsta o julgamento dos processos individuais que tratam do tema e também não impede a aplicação desta tese;\n\nII - Antes do trânsito em julgado deste Incidente, não haverá prejuízo aos processos julgados pelos órgãos fracionários que não tenham adotado a presente tese;\n\nIII - Após o trânsito em julgado: a) aplica-se aos processos ainda não julgados e que tenham sido ajuizados até a data do julgamento dos presentes embargos; b) aplica-se aos processos novos, referentes à relação material posterior à data do julgamento dos presentes embargos; c) não se aplica aos processos novos, referentes à relação material anterior ao julgamento dos presentes embargos.\n\n \n\nPublique-se.\n\n \n\nREGISTRO DA SESSÃO DE JULGAMENTO\n\nEm Sessão Ordinária realizada em 27 de julho de 2023, o Tribunal Pleno Judicial do Tribunal Regional do Trabalho da 15ª Região julgou o presente processo.\n\nPresidiu o julgamento o Excelentíssimo Senhor Desembargador Presidente do Tribunal, SAMUEL HUGO LIMA.",
       "tipo": "IRDR"
     },
     {
