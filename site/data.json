@@ -1,8 +1,8 @@
 {
-  "atualizado_em": "2026-09-15T17:06:25+00:00",
+  "atualizado_em": "2026-09-17T17:16:00+00:00",
   "fonte": "https://pje.trt15.jus.br/precedentesWeb/pages/public/TemaLista.seam?tipo=IRDR",
   "total_temas_decididos_verificados": 48,
-  "total_com_tese_fixada": 18,
+  "total_com_tese_fixada": 17,
   "irdrs": [
     {
       "numero": "0003",
@@ -128,20 +128,6 @@
       "link_processo": "https://pje.trt15.jus.br/consultaprocessual/detalhe-processo/0018522-62.2025.5.15.0000/2#68b3e2c",
       "tese": "A constituição da hipoteca judiciária (art. 495 do CPC), aplicável ao processo do trabalho (art. 769, da CLT), é efeito anexo e automático da sentença condenatória  pecuniária,  operando-se ope  legis (por  força  de  lei),  e,  portanto, prescinde  de  ordem  judicial  expressa,  expedição  de  mandado  ou  qualquer  outra providência do Juízo para seu registro perante o cartório imobiliário competente.\nRefere-se à tese jurídica n.º 45 deste Egrégio Tribunal.",
       "ementa_merito": "Ementa: INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS(IRDR)  -  REAFIRMAÇÃO  DE  JURISPRUDÊNCIA.  DIREITO  PROCESSUAL  DO  TRABALHO.HIPOTECA  JUDICIÁRIA.  ART.  495  DO  CPC.  APLICABILIDADE  AO  PROCESSO  DOTRABALHO.  EFEITO  ANEXO  E  AUTOMÁTICO  DA  SENTENÇA  CONDENATÓRIA.DESNECESSIDADE DE MANDADO JUDICIAL PARA REGISTRO. FIXAÇÃO DE TESE JURÍDICAVINCULANTE. RECURSO ORDINÁRIO DO RECLAMANTE NÃO PROVIDO.1- Trata-se de Incidente de Resolução de Demandas Repetitivas(IRDR), suscitado na modalidade de reafirmação de jurisprudência, com o objetivo de converter  em  tese  jurídica  vinculante  o  entendimento  já  pacificado  no  âmbito  do Tribunal.  A  questão  jurídica  central  consiste  em  definir  se,  considerando  a aplicabilidade  da  hipoteca  judiciária  ao  processo  do  trabalho  (art.  495  do  CPC),  a sentença condenatória, por si só, constitui título hábil para o registro da garantia pela parte interessada ou se é necessária a expedição de mandado judicial específico para tal finalidade. (...). Considerando o limite de caracteres do campo, o inteiro teor do acórdão pode ser acessado pelo link: https://pje.trt15.jus.br/consultaprocessual/detalhe-processo/0018522-62.2025.5.15.0000/2#38f07f0",
-      "tipo": "IRDR"
-    },
-    {
-      "numero": "0047",
-      "data_admissao": "21/08/2025",
-      "data_julgamento": "21/08/2025",
-      "data_publicacao": "07/10/2025",
-      "transito_julgado": "22/10/2025",
-      "situacao_value": "TRANSITADO",
-      "situacao_label": "Transitado em julgado",
-      "descricao": "A  dispensa  de  empregado  com  deficiência,  sem  justa causa,   condiciona-se   à   contratação   de   substituto   em condição semelhante, nos termos do que dispõe o art. 93, § 1º,  da  Lei  nº  8.213/91,  excetuando-se  a  hipótese  de  a empresa  comprovar  a  manutenção  do  percentual  mínimo legal   de   empregados   com   deficiência   em   seu   quadro funcional?",
-      "link_processo": "https://pje.trt15.jus.br/consultaprocessual/detalhe-processo/0018528-69.2025.5.15.0000/2#44a5ad0",
-      "tese": "A validade da dispensa imotivada de trabalhador reabilitado da Previdência Social ou com deficiência, habilitado para o preenchimento de cargo nos termos do art. 93 da Lei nº 8.213/91, está condicionada à contratação de substituto em condição semelhante, nos termos do que dispõe o § 1º da referida norma, excetuando-se a hipótese de a empresa comprovar a manutenção do percentual mínimo legal de empregados com deficiência em seu quadro funcional.\nRefere-se à tese jurídica n.º 47 deste Egrégio Tribunal.",
-      "ementa_merito": "INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS - REAFIRMAÇÃO DE JURISPRUDÊNCIA. DIREITO INDIVIDUAL E COLETIVO DO TRABALHO. DISPENSA DE EMPREGADO COM DEFICIÊNCIA OU REABILITADO. ART. 93, § 1º, DA LEI Nº 8.213/91. SISTEMA DE COTAS. GARANTIA INDIRETA DE EMPREGO. FIXAÇÃO DE TESE JURÍDICA VINCULANTE. RECURSO ORDINÁRIO CONHECIDO E DESPROVIDO. 1- Trata-se de Incidente de Resolução de Demandas Repetitivas (IRDR) suscitado para reafirmação da jurisprudência consolidada na Súmula nº 95 deste Tribunal, com o objetivo de fixar tese jurídica vinculante sobre a interpretação do artigo 93, § 1º, da Lei nº 8.213/91. A controvérsia central reside em definir as condições para a validade da dispensa sem justa causa de empregado com deficiência ou reabilitado. 2- A validade da dispensa imotivada de trabalhador reabilitado da Previdência Social ou com deficiência, habilitado para o preenchimento de cargo nos termos do art. 93 da Lei nº 8.213/91, está condicionada à contratação de substituto em condição semelhante, nos termos do que dispõe o § 1º da referida norma, excetuando-se a hipótese de a empresa comprovar a manutenção do percentual mínimo legal de empregados com deficiência em seu quadro funcional\". 3- Tal entendimento visa conferir máxima efetividade à política de inclusão social prevista na Lei nº 8.213/91 e está alinhado à jurisprudência consolidada das Câmaras deste Tribunal e do C. Tribunal Superior do Trabalho. A fixação de tese vinculante justifica-se pela necessidade de converter o entendimento persuasivo em precedente obrigatório para coibir a interposição de recursos protelatórios, garantindo a celeridade, a segurança jurídica e a isonomia. 4- O recurso ordinário interposto pela reclamada no processo representativo é conhecido e seu provimento é negado, sendo mantida a sentença que declarou a nulidade da dispensa e determinou a reintegração do empregado, com base na aplicação da tese jurídica ora reafirmada.",
       "tipo": "IRDR"
     },
     {
