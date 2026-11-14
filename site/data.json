@@ -1,8 +1,8 @@
 {
-  "atualizado_em": "2026-11-13T17:14:35+00:00",
+  "atualizado_em": "2026-11-14T17:41:21+00:00",
   "fonte": "https://pje.trt15.jus.br/precedentesWeb/pages/public/TemaLista.seam?tipo=IRDR",
   "total_temas_decididos_verificados": 48,
-  "total_com_tese_fixada": 18,
+  "total_com_tese_fixada": 15,
   "irdrs": [
     {
       "numero": "0003",
@@ -47,20 +47,6 @@
       "tipo": "IRDR"
     },
     {
-      "numero": "0015",
-      "data_admissao": "13/02/2020",
-      "data_julgamento": "27/05/2021",
-      "data_publicacao": "14/06/2021",
-      "transito_julgado": "05/07/2021",
-      "situacao_value": "TRANSITADO",
-      "situacao_label": "Transitado em julgado",
-      "descricao": "Supressão das gratificações concedidas pelo MUNICÍPIO DE POTIM.",
-      "link_processo": "https://pje.trt15.jus.br/consultaprocessual/detalhe-processo/0008298-75.2019.5.15.0000/2",
-      "tese": "\"Município de Potim. Pagamento de Gratificação de função criada ilegalmente e desvinculada do exercício de função ou atividade específica. Supressão. Evidenciada a existência de vício insanável na criação da verba, é dever do administrador público suspender o pagamento da gratificação de função criada sem lei específica, em respeito aos princípios da legalidade e da indisponibilidade do interesse público.\"\nRefere- se à Tese Jurídica nº 03, deste Eg. Tribunal.",
-      "ementa_merito": "Pelo exposto, nos autos do INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS decido, com fundamento no artigo 985 do CPC, nos termos da fundamentação, fixar a seguinte tese jurídica: \"Município de Potim. Pagamento de Gratificação de função criada ilegalmente e desvinculada do exercício de função ou atividade específica. Supressão. Evidenciada a existência de vício insanável na criação da verba, é dever do administrador público suspender o pagamento da gratificação de função criada sem lei específica, em respeito aos princípios da legalidade e da indisponibilidade do interesse público.\"\". O sobrestamento dos processos outrora determinado (id e141aa0) subsistirá até o trânsito em julgado do presente incidente.",
-      "tipo": "IRDR"
-    },
-    {
       "numero": "0021",
       "data_admissao": "24/02/2022",
       "data_julgamento": "27/10/2022",
@@ -72,20 +58,6 @@
       "link_processo": "https://pje.trt15.jus.br/consultaprocessual/detalhe-processo/0005985-73.2021.5.15.0000/2#aef921b",
       "tese": "\"Os servidores públicos do Município de Santa Cruz do Rio Pardo ocupantes   do   cargo   de   monitor,   independentemente   da  data   de contratação,   têm   o   direito   de   figurar   entre   os   destinatários   do rateio anual dos recursos provenientes do FUNDEB.\" Refere-se à tese jurídica nº 06, deste Eg. Tribunal.",
       "ementa_merito": "DIANTE DO EXPOSTO, decido julgar PROCEDENTE o presente Incidente de Resolução de Demandas Repetitivas, para fixar tese jurídica sobre o tema do direito dos monitores do Município de Santa Cruz do Rio Pardo ao rateio anual dos recursos provenientes do FUNDEB, da seguinte forma:\n\n\"Os servidores públicos do Município de Santa Cruz do Rio Pardo ocupantes do cargo de monitor, independentemente da data de contratação, têm o direito de figurar entre os destinatários do rateio anual dos recursos provenientes do FUNDEB.\"",
-      "tipo": "IRDR"
-    },
-    {
-      "numero": "0024",
-      "data_admissao": "25/08/2022",
-      "data_julgamento": "07/03/2024",
-      "data_publicacao": "02/04/2024",
-      "transito_julgado": "12/04/0024",
-      "situacao_value": "TRANSITADO",
-      "situacao_label": "Transitado em julgado",
-      "descricao": "Aplicação da multa do artigo 477, § 8º, da CLT, considerada a redação dada ao § 6ºdo referido dispositivo pela Lei n. 13.467/2017.",
-      "link_processo": "https://pje.trt15.jus.br/consultaprocessual/detalhe-processo/0010664-53.2020.5.15.0000/2",
-      "tese": "\"MULTA DO ART. 477, §8º, DA CLT. ATRASO NA ENTREGA DOS DOCUMENTOS. Nas rescisões contratuais realizadas na vigência da Lei nº 13.467/2017 incide a multa prevista no artigo 477, § 8º da CLT no caso do empregador não observar o prazo máximo de dez dias contados a partir do término do contrato, tanto para a entrega ao empregado de documentos que comprovem a comunicação da extinção contratual aos órgãos competentes, como para realizar o pagamento dos valores constantes do instrumento de rescisão ou recibo de quitação, salvo quando o trabalhador der causa à mora\". Refere-se à tese jurídica nº 07, deste Eg. Tribunal.",
-      "ementa_merito": "\"MULTA DO ART. 477, §8º, DA CLT. ATRASO NA ENTREGA DOS DOCUMENTOS. Nas rescisões contratuais realizadas na vigência da Lei nº 13.467/2017 incide a multa prevista no artigo 477, § 8º da CLT no caso do empregador não observar o prazo máximo de dez dias contados a partir do término do contrato, tanto para a entrega ao empregado de documentos que comprovem a comunicação da extinção contratual aos órgãos competentes, como para realizar o pagamento dos valores constantes do instrumento de rescisão ou recibo de quitação, salvo quando o trabalhador der causa à mora\".",
       "tipo": "IRDR"
     },
     {
@@ -128,20 +100,6 @@
       "link_processo": "https://pje.trt15.jus.br/consultaprocessual/detalhe-processo/0018522-62.2025.5.15.0000/2#68b3e2c",
       "tese": "A constituição da hipoteca judiciária (art. 495 do CPC), aplicável ao processo do trabalho (art. 769, da CLT), é efeito anexo e automático da sentença condenatória  pecuniária,  operando-se ope  legis (por  força  de  lei),  e,  portanto, prescinde  de  ordem  judicial  expressa,  expedição  de  mandado  ou  qualquer  outra providência do Juízo para seu registro perante o cartório imobiliário competente.\nRefere-se à tese jurídica n.º 45 deste Egrégio Tribunal.",
       "ementa_merito": "Ementa: INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS(IRDR)  -  REAFIRMAÇÃO  DE  JURISPRUDÊNCIA.  DIREITO  PROCESSUAL  DO  TRABALHO.HIPOTECA  JUDICIÁRIA.  ART.  495  DO  CPC.  APLICABILIDADE  AO  PROCESSO  DOTRABALHO.  EFEITO  ANEXO  E  AUTOMÁTICO  DA  SENTENÇA  CONDENATÓRIA.DESNECESSIDADE DE MANDADO JUDICIAL PARA REGISTRO. FIXAÇÃO DE TESE JURÍDICAVINCULANTE. RECURSO ORDINÁRIO DO RECLAMANTE NÃO PROVIDO.1- Trata-se de Incidente de Resolução de Demandas Repetitivas(IRDR), suscitado na modalidade de reafirmação de jurisprudência, com o objetivo de converter  em  tese  jurídica  vinculante  o  entendimento  já  pacificado  no  âmbito  do Tribunal.  A  questão  jurídica  central  consiste  em  definir  se,  considerando  a aplicabilidade  da  hipoteca  judiciária  ao  processo  do  trabalho  (art.  495  do  CPC),  a sentença condenatória, por si só, constitui título hábil para o registro da garantia pela parte interessada ou se é necessária a expedição de mandado judicial específico para tal finalidade. (...). Considerando o limite de caracteres do campo, o inteiro teor do acórdão pode ser acessado pelo link: https://pje.trt15.jus.br/consultaprocessual/detalhe-processo/0018522-62.2025.5.15.0000/2#38f07f0",
-      "tipo": "IRDR"
-    },
-    {
-      "numero": "0047",
-      "data_admissao": "21/08/2025",
-      "data_julgamento": "21/08/2025",
-      "data_publicacao": "07/10/2025",
-      "transito_julgado": "22/10/2025",
-      "situacao_value": "TRANSITADO",
-      "situacao_label": "Transitado em julgado",
-      "descricao": "A  dispensa  de  empregado  com  deficiência,  sem  justa causa,   condiciona-se   à   contratação   de   substituto   em condição semelhante, nos termos do que dispõe o art. 93, § 1º,  da  Lei  nº  8.213/91,  excetuando-se  a  hipótese  de  a empresa  comprovar  a  manutenção  do  percentual  mínimo legal   de   empregados   com   deficiência   em   seu   quadro funcional?",
-      "link_processo": "https://pje.trt15.jus.br/consultaprocessual/detalhe-processo/0018528-69.2025.5.15.0000/2#44a5ad0",
-      "tese": "A validade da dispensa imotivada de trabalhador reabilitado da Previdência Social ou com deficiência, habilitado para o preenchimento de cargo nos termos do art. 93 da Lei nº 8.213/91, está condicionada à contratação de substituto em condição semelhante, nos termos do que dispõe o § 1º da referida norma, excetuando-se a hipótese de a empresa comprovar a manutenção do percentual mínimo legal de empregados com deficiência em seu quadro funcional.\nRefere-se à tese jurídica n.º 47 deste Egrégio Tribunal.",
-      "ementa_merito": "INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS - REAFIRMAÇÃO DE JURISPRUDÊNCIA. DIREITO INDIVIDUAL E COLETIVO DO TRABALHO. DISPENSA DE EMPREGADO COM DEFICIÊNCIA OU REABILITADO. ART. 93, § 1º, DA LEI Nº 8.213/91. SISTEMA DE COTAS. GARANTIA INDIRETA DE EMPREGO. FIXAÇÃO DE TESE JURÍDICA VINCULANTE. RECURSO ORDINÁRIO CONHECIDO E DESPROVIDO. 1- Trata-se de Incidente de Resolução de Demandas Repetitivas (IRDR) suscitado para reafirmação da jurisprudência consolidada na Súmula nº 95 deste Tribunal, com o objetivo de fixar tese jurídica vinculante sobre a interpretação do artigo 93, § 1º, da Lei nº 8.213/91. A controvérsia central reside em definir as condições para a validade da dispensa sem justa causa de empregado com deficiência ou reabilitado. 2- A validade da dispensa imotivada de trabalhador reabilitado da Previdência Social ou com deficiência, habilitado para o preenchimento de cargo nos termos do art. 93 da Lei nº 8.213/91, está condicionada à contratação de substituto em condição semelhante, nos termos do que dispõe o § 1º da referida norma, excetuando-se a hipótese de a empresa comprovar a manutenção do percentual mínimo legal de empregados com deficiência em seu quadro funcional\". 3- Tal entendimento visa conferir máxima efetividade à política de inclusão social prevista na Lei nº 8.213/91 e está alinhado à jurisprudência consolidada das Câmaras deste Tribunal e do C. Tribunal Superior do Trabalho. A fixação de tese vinculante justifica-se pela necessidade de converter o entendimento persuasivo em precedente obrigatório para coibir a interposição de recursos protelatórios, garantindo a celeridade, a segurança jurídica e a isonomia. 4- O recurso ordinário interposto pela reclamada no processo representativo é conhecido e seu provimento é negado, sendo mantida a sentença que declarou a nulidade da dispensa e determinou a reintegração do empregado, com base na aplicação da tese jurídica ora reafirmada.",
       "tipo": "IRDR"
     },
     {
