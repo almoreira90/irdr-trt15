@@ -1,8 +1,8 @@
 {
-  "atualizado_em": "2026-11-14T17:41:21+00:00",
+  "atualizado_em": "2026-11-15T17:36:18+00:00",
   "fonte": "https://pje.trt15.jus.br/precedentesWeb/pages/public/TemaLista.seam?tipo=IRDR",
   "total_temas_decididos_verificados": 48,
-  "total_com_tese_fixada": 15,
+  "total_com_tese_fixada": 16,
   "irdrs": [
     {
       "numero": "0003",
@@ -47,6 +47,20 @@
       "tipo": "IRDR"
     },
     {
+      "numero": "0015",
+      "data_admissao": "13/02/2020",
+      "data_julgamento": "27/05/2021",
+      "data_publicacao": "14/06/2021",
+      "transito_julgado": "05/07/2021",
+      "situacao_value": "TRANSITADO",
+      "situacao_label": "Transitado em julgado",
+      "descricao": "Supressão das gratificações concedidas pelo MUNICÍPIO DE POTIM.",
+      "link_processo": "https://pje.trt15.jus.br/consultaprocessual/detalhe-processo/0008298-75.2019.5.15.0000/2",
+      "tese": "\"Município de Potim. Pagamento de Gratificação de função criada ilegalmente e desvinculada do exercício de função ou atividade específica. Supressão. Evidenciada a existência de vício insanável na criação da verba, é dever do administrador público suspender o pagamento da gratificação de função criada sem lei específica, em respeito aos princípios da legalidade e da indisponibilidade do interesse público.\"\nRefere- se à Tese Jurídica nº 03, deste Eg. Tribunal.",
+      "ementa_merito": "Pelo exposto, nos autos do INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS decido, com fundamento no artigo 985 do CPC, nos termos da fundamentação, fixar a seguinte tese jurídica: \"Município de Potim. Pagamento de Gratificação de função criada ilegalmente e desvinculada do exercício de função ou atividade específica. Supressão. Evidenciada a existência de vício insanável na criação da verba, é dever do administrador público suspender o pagamento da gratificação de função criada sem lei específica, em respeito aos princípios da legalidade e da indisponibilidade do interesse público.\"\". O sobrestamento dos processos outrora determinado (id e141aa0) subsistirá até o trânsito em julgado do presente incidente.",
+      "tipo": "IRDR"
+    },
+    {
       "numero": "0021",
       "data_admissao": "24/02/2022",
       "data_julgamento": "27/10/2022",
@@ -58,6 +72,20 @@
       "link_processo": "https://pje.trt15.jus.br/consultaprocessual/detalhe-processo/0005985-73.2021.5.15.0000/2#aef921b",
       "tese": "\"Os servidores públicos do Município de Santa Cruz do Rio Pardo ocupantes   do   cargo   de   monitor,   independentemente   da  data   de contratação,   têm   o   direito   de   figurar   entre   os   destinatários   do rateio anual dos recursos provenientes do FUNDEB.\" Refere-se à tese jurídica nº 06, deste Eg. Tribunal.",
       "ementa_merito": "DIANTE DO EXPOSTO, decido julgar PROCEDENTE o presente Incidente de Resolução de Demandas Repetitivas, para fixar tese jurídica sobre o tema do direito dos monitores do Município de Santa Cruz do Rio Pardo ao rateio anual dos recursos provenientes do FUNDEB, da seguinte forma:\n\n\"Os servidores públicos do Município de Santa Cruz do Rio Pardo ocupantes do cargo de monitor, independentemente da data de contratação, têm o direito de figurar entre os destinatários do rateio anual dos recursos provenientes do FUNDEB.\"",
+      "tipo": "IRDR"
+    },
+    {
+      "numero": "0024",
+      "data_admissao": "25/08/2022",
+      "data_julgamento": "07/03/2024",
+      "data_publicacao": "02/04/2024",
+      "transito_julgado": "12/04/0024",
+      "situacao_value": "TRANSITADO",
+      "situacao_label": "Transitado em julgado",
+      "descricao": "Aplicação da multa do artigo 477, § 8º, da CLT, considerada a redação dada ao § 6ºdo referido dispositivo pela Lei n. 13.467/2017.",
+      "link_processo": "https://pje.trt15.jus.br/consultaprocessual/detalhe-processo/0010664-53.2020.5.15.0000/2",
+      "tese": "\"MULTA DO ART. 477, §8º, DA CLT. ATRASO NA ENTREGA DOS DOCUMENTOS. Nas rescisões contratuais realizadas na vigência da Lei nº 13.467/2017 incide a multa prevista no artigo 477, § 8º da CLT no caso do empregador não observar o prazo máximo de dez dias contados a partir do término do contrato, tanto para a entrega ao empregado de documentos que comprovem a comunicação da extinção contratual aos órgãos competentes, como para realizar o pagamento dos valores constantes do instrumento de rescisão ou recibo de quitação, salvo quando o trabalhador der causa à mora\". Refere-se à tese jurídica nº 07, deste Eg. Tribunal.",
+      "ementa_merito": "\"MULTA DO ART. 477, §8º, DA CLT. ATRASO NA ENTREGA DOS DOCUMENTOS. Nas rescisões contratuais realizadas na vigência da Lei nº 13.467/2017 incide a multa prevista no artigo 477, § 8º da CLT no caso do empregador não observar o prazo máximo de dez dias contados a partir do término do contrato, tanto para a entrega ao empregado de documentos que comprovem a comunicação da extinção contratual aos órgãos competentes, como para realizar o pagamento dos valores constantes do instrumento de rescisão ou recibo de quitação, salvo quando o trabalhador der causa à mora\".",
       "tipo": "IRDR"
     },
     {
@@ -75,20 +103,6 @@
       "tipo": "IRDR"
     },
     {
-      "numero": "0041",
-      "data_admissao": "28/07/2025",
-      "data_julgamento": "28/07/2025",
-      "data_publicacao": "30/07/2025",
-      "transito_julgado": "01/09/2025",
-      "situacao_value": "TRANSITADO",
-      "situacao_label": "Transitado em julgado",
-      "descricao": "JORNADA 12X36- VALIDADE- SUPRESSÃO PARCIAL OU TOTAL DO INTERVALO INTRAJORNADA",
-      "link_processo": "https://pje.trt15.jus.br/consultaprocessual/detalhe-processo/0017280-68.2025.5.15.0000/2#b7bccc2",
-      "tese": "\"A não concessão ou a concessão parcial do intervalo intrajornada, no âmbito do regime especial de jornada 12x36, não acarreta, por si só, a sua descaracterização.\"\nRefere-se à tese jurídica n.º 41 deste Egrégio Tribunal.",
-      "ementa_merito": "Ementa: INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS - REAFIRMAÇÃO DE JURISPRUDÊNCIA. DIREITO DO TRABALHO. JORNADA DE TRABALHO 12X36. SUPRESSÃO DO INTERVALO INTRAJORNADA. VALIDADE DO REGIME. FIXAÇÃO DE TESE JURÍDICA VINCULANTE. RECURSO ORDINÁRIO DESPROVIDO.\n\nTrata-se de Incidente de Resolução de Demandas Repetitivas (IRDR), suscitado na modalidade de reafirmação de jurisprudência, com o objetivo de converter o entendimento consolidado na Súmula n.º 130 deste Tribunal em tese jurídica de caráter vinculante. A questão jurídica proposta visa definir se a supressão parcial ou total do intervalo intrajornada, por si só, invalida o regime de trabalho 12x36, regularmente estabelecido em lei ou em negociação coletiva.\n\nA não concessão ou a concessão parcial do intervalo intrajornada, no âmbito de um regime de trabalho 12x36 regularmente pactuado, não acarreta, isoladamente, a sua descaracterização.\n\nA fixação da tese fundamenta-se na necessidade de preservar a uniformidade e a segurança jurídica, diante da persistência de decisões dissonantes em primeiro grau, a despeito do entendimento já pacificado na Súmula n.º 130 deste Tribunal. A conclusão alinha-se à jurisprudência iterativa e atual do Tribunal Superior do Trabalho (TST), no sentido de que a não concessão ou a concessão parcial do intervalo intrajornada, ainda que gere os efeitos legais em desfavor do empregador, não descaracteriza, por si só, a jornada especial de 12x36.\n\nO Incidente de Resolução de Demandas Repetitivas foi admitido para reafirmar a jurisprudência, com a fixação de tese jurídica obrigatória. No caso representativo, o recurso ordinário da reclamante teve seu provimento negado, sendo mantida a sentença que reconheceu a validade do regime 12x36.",
-      "tipo": "IRDR"
-    },
-    {
       "numero": "0045",
       "data_admissao": "21/08/2025",
       "data_julgamento": "21/08/2025",
@@ -100,6 +114,20 @@
       "link_processo": "https://pje.trt15.jus.br/consultaprocessual/detalhe-processo/0018522-62.2025.5.15.0000/2#68b3e2c",
       "tese": "A constituição da hipoteca judiciária (art. 495 do CPC), aplicável ao processo do trabalho (art. 769, da CLT), é efeito anexo e automático da sentença condenatória  pecuniária,  operando-se ope  legis (por  força  de  lei),  e,  portanto, prescinde  de  ordem  judicial  expressa,  expedição  de  mandado  ou  qualquer  outra providência do Juízo para seu registro perante o cartório imobiliário competente.\nRefere-se à tese jurídica n.º 45 deste Egrégio Tribunal.",
       "ementa_merito": "Ementa: INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS(IRDR)  -  REAFIRMAÇÃO  DE  JURISPRUDÊNCIA.  DIREITO  PROCESSUAL  DO  TRABALHO.HIPOTECA  JUDICIÁRIA.  ART.  495  DO  CPC.  APLICABILIDADE  AO  PROCESSO  DOTRABALHO.  EFEITO  ANEXO  E  AUTOMÁTICO  DA  SENTENÇA  CONDENATÓRIA.DESNECESSIDADE DE MANDADO JUDICIAL PARA REGISTRO. FIXAÇÃO DE TESE JURÍDICAVINCULANTE. RECURSO ORDINÁRIO DO RECLAMANTE NÃO PROVIDO.1- Trata-se de Incidente de Resolução de Demandas Repetitivas(IRDR), suscitado na modalidade de reafirmação de jurisprudência, com o objetivo de converter  em  tese  jurídica  vinculante  o  entendimento  já  pacificado  no  âmbito  do Tribunal.  A  questão  jurídica  central  consiste  em  definir  se,  considerando  a aplicabilidade  da  hipoteca  judiciária  ao  processo  do  trabalho  (art.  495  do  CPC),  a sentença condenatória, por si só, constitui título hábil para o registro da garantia pela parte interessada ou se é necessária a expedição de mandado judicial específico para tal finalidade. (...). Considerando o limite de caracteres do campo, o inteiro teor do acórdão pode ser acessado pelo link: https://pje.trt15.jus.br/consultaprocessual/detalhe-processo/0018522-62.2025.5.15.0000/2#38f07f0",
+      "tipo": "IRDR"
+    },
+    {
+      "numero": "0047",
+      "data_admissao": "21/08/2025",
+      "data_julgamento": "21/08/2025",
+      "data_publicacao": "07/10/2025",
+      "transito_julgado": "22/10/2025",
+      "situacao_value": "TRANSITADO",
+      "situacao_label": "Transitado em julgado",
+      "descricao": "A  dispensa  de  empregado  com  deficiência,  sem  justa causa,   condiciona-se   à   contratação   de   substituto   em condição semelhante, nos termos do que dispõe o art. 93, § 1º,  da  Lei  nº  8.213/91,  excetuando-se  a  hipótese  de  a empresa  comprovar  a  manutenção  do  percentual  mínimo legal   de   empregados   com   deficiência   em   seu   quadro funcional?",
+      "link_processo": "https://pje.trt15.jus.br/consultaprocessual/detalhe-processo/0018528-69.2025.5.15.0000/2#44a5ad0",
+      "tese": "A validade da dispensa imotivada de trabalhador reabilitado da Previdência Social ou com deficiência, habilitado para o preenchimento de cargo nos termos do art. 93 da Lei nº 8.213/91, está condicionada à contratação de substituto em condição semelhante, nos termos do que dispõe o § 1º da referida norma, excetuando-se a hipótese de a empresa comprovar a manutenção do percentual mínimo legal de empregados com deficiência em seu quadro funcional.\nRefere-se à tese jurídica n.º 47 deste Egrégio Tribunal.",
+      "ementa_merito": "INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS - REAFIRMAÇÃO DE JURISPRUDÊNCIA. DIREITO INDIVIDUAL E COLETIVO DO TRABALHO. DISPENSA DE EMPREGADO COM DEFICIÊNCIA OU REABILITADO. ART. 93, § 1º, DA LEI Nº 8.213/91. SISTEMA DE COTAS. GARANTIA INDIRETA DE EMPREGO. FIXAÇÃO DE TESE JURÍDICA VINCULANTE. RECURSO ORDINÁRIO CONHECIDO E DESPROVIDO. 1- Trata-se de Incidente de Resolução de Demandas Repetitivas (IRDR) suscitado para reafirmação da jurisprudência consolidada na Súmula nº 95 deste Tribunal, com o objetivo de fixar tese jurídica vinculante sobre a interpretação do artigo 93, § 1º, da Lei nº 8.213/91. A controvérsia central reside em definir as condições para a validade da dispensa sem justa causa de empregado com deficiência ou reabilitado. 2- A validade da dispensa imotivada de trabalhador reabilitado da Previdência Social ou com deficiência, habilitado para o preenchimento de cargo nos termos do art. 93 da Lei nº 8.213/91, está condicionada à contratação de substituto em condição semelhante, nos termos do que dispõe o § 1º da referida norma, excetuando-se a hipótese de a empresa comprovar a manutenção do percentual mínimo legal de empregados com deficiência em seu quadro funcional\". 3- Tal entendimento visa conferir máxima efetividade à política de inclusão social prevista na Lei nº 8.213/91 e está alinhado à jurisprudência consolidada das Câmaras deste Tribunal e do C. Tribunal Superior do Trabalho. A fixação de tese vinculante justifica-se pela necessidade de converter o entendimento persuasivo em precedente obrigatório para coibir a interposição de recursos protelatórios, garantindo a celeridade, a segurança jurídica e a isonomia. 4- O recurso ordinário interposto pela reclamada no processo representativo é conhecido e seu provimento é negado, sendo mantida a sentença que declarou a nulidade da dispensa e determinou a reintegração do empregado, com base na aplicação da tese jurídica ora reafirmada.",
       "tipo": "IRDR"
     },
     {
@@ -184,20 +212,6 @@
       "link_processo": "https://pje.trt15.jus.br/consultaprocessual/detalhe-processo/0023137-95.2025.5.15.0000/2#b72ea13",
       "tese": "Não é devido o pagamento de adicional de insalubridade aos trabalhadores que exercem atividades de troca de fraldas e higienização de crianças em creches e estabelecimentos de educação infantil, ainda que constatada exposição a agentes biológicos mediante laudo pericial, porquanto tais atividades não se enquadram nas hipóteses previstas no Anexo 14 da NR-15 da Portaria nº 3.214/78 do Ministério do Trabalho, nos termos da Súmula nº 448, I, do TST, que consagra o sistema legal tarifado para caracterização da insalubridade no ordenamento jurídico trabalhista brasileiro.\nRefere-se à tese jurídica n.º 55 deste Egrégio Tribunal.",
       "ementa_merito": "INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS. IRDR. REAFIRMAÇÃO DE JURISPRUDÊNCIA. DIREITO DO TRABALHO. ADICIONAL DE INSALUBRIDADE. AGENTES BIOLÓGICOS. ATIVIDADE EM CRECHE E ESTABELECIMENTOS DE EDUCAÇÃO INFANTIL. TROCA DE FRALDAS E HIGIENIZAÇÃO DE CRIANÇAS. ANEXO 14 DA NR-15 DA PORTARIA MTE Nº 3.214/78. SISTEMA LEGAL TARIFADO. SÚMULA Nº 448, I, DO TST. FIXAÇÃO DE TESE JURÍDICA VINCULANTE. RECURSO ORDINÁRIO DO REPRESENTATIVO CONHECIDO E NÃO PROVIDO.\n1. Trata-se de Incidente de Resolução de Demandas Repetitivas (IRDR), suscitado na modalidade de reafirmação de jurisprudência, com o objetivo de fixar tese jurídica vinculante sobre o direito ao adicional de insalubridade para trabalhadores em creches e estabelecimentos de educação infantil que realizam atividades de troca de fraldas e higienização de crianças. A controvérsia define se a constatação pericial da condição insalubre é suficiente ou se é indispensável o enquadramento estrito da atividade no Anexo 14 da NR-15 da Portaria MTE nº 3.214/78.\n2. As atividades de troca de fraldas e higienização de crianças, realizadas no âmbito de creches e estabelecimentos de educação infantil, não ensejam o pagamento do adicional de insalubridade. O direito ao referido adicional depende da classificação da atividade na relação oficial elaborada pelo Ministério do Trabalho (Anexo 14 da NR-15), sendo insuficiente a mera constatação da insalubridade por laudo pericial.\n3. Fundamenta-se a conclusão no ordenamento jurídico trabalhista brasileiro, que adota o sistema legal tarifado para a caracterização da insalubridade (art. 190 da CLT e Súmula nº 448, I, do TST). As creches e escolas infantis são estabelecimentos de natureza educacional e não se equiparam a estabelecimentos destinados aos cuidados da saúde humana (hospitais, ambulatórios, etc.). Ademais, as referidas atividades não se enquadram nas hipóteses de contato com lixo urbano ou esgotos previstas no Anexo 14 da NR-15, não cabendo ao Poder Judiciário ampliar o rol normativo por interpretação extensiva ou analogia.\n4. O Incidente de Resolução de Demandas Repetitivas foi acolhido para reafirmação da jurisprudência consolidada e fixação de tese obrigatória. Recurso Ordinário do processo representativo foi conhecido e desprovido, mantendo-se a sentença de improcedência do pedido de adicional de insalubridade.",
-      "tipo": "IRDR"
-    },
-    {
-      "numero": "0056",
-      "data_admissao": "12/12/2025",
-      "data_julgamento": "12/12/2025",
-      "data_publicacao": "19/12/2025",
-      "transito_julgado": "02/03/2026",
-      "situacao_value": "TRANSITADO",
-      "situacao_label": "Transitado em julgado",
-      "descricao": "Descumprimento do intervalo mínimo de 11 horas entre jornadas previsto no art. 66 da CLT - natureza da sanção e possibilidade de cumulação com horas extras.",
-      "link_processo": "https://pje.trt15.jus.br/consultaprocessual/detalhe-processo/0023138-80.2025.5.15.0000/2#4ad0b2b",
-      "tese": "A inobservância do intervalo mínimo interjornada de 11 (onze) horas consecutivas, estabelecido no art. 66 da CLT, não constitui mera infração administrativa, conferindo ao trabalhador o direito ao pagamento do período suprimido, com o acréscimo previsto no art. 71, §4º, da CLT, por aplicação analógica, em razão da identidade de natureza protetiva entre ambas as normas voltadas à tutela da saúde e segurança do trabalhador.\nO pagamento das horas suprimidas do intervalo interjornada não se confunde com a remuneração de horas extras decorrentes da sobrejornada, tratando-se de parcelas com fatos geradores e finalidades jurídicas distintas, sendo plenamente cumuláveis, sem que isso configure bis in idem ou enriquecimento sem causa.\nRefere-se à tese jurídica n.º 56 deste Egrégio Tribunal.",
-      "ementa_merito": "INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS (IRDR). REAFIRMAÇÃO DE JURISPRUDÊNCIA. DIREITO DO TRABALHO. INTERVALO INTERJORNADA. ART. 66 DA CLT. DESCUMPRIMENTO. APLICAÇÃO ANALÓGICA DO ART. 71, § 4º, DA CLT. NATUREZA PECUNIÁRIA. CUMULAÇÃO COM HORAS EXTRAS DECORRENTES DA SOBREJORNADA. INEXISTÊNCIA DE BIS IN IDEM. FIXAÇÃO DE TESE JURÍDICA VINCULANTE. RECURSO ORDINÁRIO DO REPRESENTATIVO CONHECIDO E NÃO PROVIDO.\n1. Trata-se de Incidente de Resolução de Demandas Repetitivas (IRDR), suscitado na modalidade de Reafirmação de Jurisprudência, visando à fixação de tese jurídica vinculante sobre as consequências do descumprimento do intervalo mínimo interjornada de 11 horas (art. 66 da CLT). A controvérsia cinge-se a definir se a violação constitui mera infração administrativa ou confere direito ao pagamento do período suprimido por analogia (art. 71, § 4º, da CLT), e se é admissível a cumulação dessa parcela com horas extras por sobrejornada, sem caracterizar bis in idem.\n2. A inobservância do intervalo mínimo interjornada de 11 horas (art. 66 da CLT) não constitui mera infração administrativa, conferindo ao trabalhador o direito ao pagamento do período suprimido, com o acréscimo previsto no art. 71, § 4º, da CLT, mediante aplicação analógica. O pagamento das horas suprimidas do intervalo interjornada é plenamente cumulável com a remuneração de horas extras decorrentes da sobrejornada, não configurando bis in idem.\n3. Fundamenta-se a cumulação na distinta natureza das parcelas: as horas extras por sobrejornada remuneram o trabalho efetivamente prestado além dos limites legais (contraprestação pelo labor extraordinário), enquanto o pagamento pelo intervalo suprimido repara a violação de norma de saúde e segurança, que privou o trabalhador do descanso (fato gerador: descumprimento do art. 66 da CLT). A aplicação analógica do art. 71, § 4º, justifica-se pela identidade de natureza protetiva das normas, ambas destinadas à proteção da saúde física e mental do empregado. A reafirmação da jurisprudência, já consolidada em todas as Câmaras deste Tribunal, é necessária para conferir força vinculante ao entendimento e reduzir a recorribilidade sobre a matéria, garantindo a isonomia e a segurança jurídica.\n4. Incidente de Resolução de Demandas Repetitivas acolhido para reafirmação da jurisprudência e fixação de tese obrigatória. Recurso Ordinário do processo representativo conhecido e desprovido.",
       "tipo": "IRDR"
     },
     {
